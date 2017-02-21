@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_8b43eabf56f2dcb0f825c5bf19c0cb5e5aa6d988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_db8f4774b120efabce0a77aba801be11fe335906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_7f05639ae7efd9fc966a8e21285a8752343da59c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_13c19a9bf2256e7505e6bd2979815114e95964b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_aedba0dc01799bcacf47482c94c5b72fd629d8d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\volley_edb9ce11063ee6d8dbe27386f35573478605abe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_73db426ab75ebd49c87fdf9724c48ed63f7b0094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bisho\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_3691728fade45aa0deff2b181202fc3b9a20f27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bisho\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_7eabae6cd60ef969af19386e67e8057de80dcc79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\volley_edb9ce11063ee6d8dbe27386f35573478605abe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_19081adb72ebcec12288576a97a8fa53987b401d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.1.1_a267cde562132263599289aefb96cf675ff715f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_36130487ff6a76c019fa502a9a23ff109c7019a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_1eb902598faf5cd8e456e258b8160bd9d1bfeb6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_43f52fb0f52d57d91f6261b18e6236d459a7c4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_77ef3f64bc0010f4b87a06446aa172e2e654b9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bisho\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_0eeba0cc976469b27b8f2e436d3b5601d39b9a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bisho\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\okhttp-3.1.2_3691728fade45aa0deff2b181202fc3b9a20f27b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_5139b95a9c9d31e9cfa42c6f4a5f15de68216c96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_c96c736d037b2f2e62600344c04c6612ecfa3c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-25.1.1_8f7722e91b0256baee21c508679fa78ea5956274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bisho\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Bisho\Kolia\Android Nanodegree\Make Your App Material Design\Project\XYZReader\build\intermediates\pre-dexed\debug\okio-1.6.0_7eabae6cd60ef969af19386e67e8057de80dcc79.jar" />
+    </item>
+
+</items>
